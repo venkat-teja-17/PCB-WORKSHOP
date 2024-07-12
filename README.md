@@ -18,11 +18,55 @@ The comprehensive PCB workshop conducted at GITAM University focused on analog a
 
 During the comprehensive PCB workshop conducted at GITAM University, I worked on several projects focusing on analog and digital circuit design. These projects enhanced my skills in PCB design, embedded systems, and sustainable energy solutions. The projects completed include:
 
-- [555TIMER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/555TIMER)
-- [8-BIT COUNTER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/8-BIT%20COUNTER)
-- [HALF ADDER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/HALF%20ADDER)
-- [LED BLINKING ON AND OFF](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/LED%20BLINKING%20ON%20AND%20OFF)
-- [POLICE LIGHTS PROJECT](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/POLICE%20LIGHTS%20PROJECT)
+## Workshop Projects
+
+1. [555TIMER](#555timer)
+2. [8-BIT COUNTER](#8-bit-counter)
+3. [HALF ADDER](#half-adder)
+4. [LED BLINKING ON AND OFF](#led-blinking-on-and-off)
+5. [POLICE LIGHTS PROJECT](#police-lights-project)
+
+---
+
+### 555TIMER
+
+The 555TIMER project involves designing and implementing circuits based on the NE555 timer IC. This versatile IC is used in various applications such as oscillators, timers, pulse generators, and more. The project explores different configurations and applications of the 555 timer, focusing on understanding its behavior through simulation and practical implementation.
+
+<a name="555timer"></a>
+
+---
+
+### 8-BIT COUNTER
+
+An 8-BIT COUNTER is a digital circuit that counts from 0 to 255 (in binary) and then resets back to 0. It is commonly used in digital electronics for tasks like frequency division, event counting, and time measurement. The project covers the design, simulation, and practical implementation of an 8-bit counter circuit using flip-flops and logic gates.
+
+<a name="8-bit-counter"></a>
+
+---
+
+### HALF ADDER
+
+A HALF ADDER is a fundamental digital circuit that adds two single-bit binary numbers and outputs the sum (bit) and the carry (bit). It forms the building block for more complex arithmetic circuits like full adders and multi-bit adders. The project involves designing and simulating a half adder circuit, understanding its logic and functionality, and possibly integrating it into larger circuits.
+
+<a name="half-adder"></a>
+
+---
+
+### LED BLINKING ON AND OFF
+
+The LED BLINKING ON AND OFF project focuses on creating a circuit that alternates the blinking state of an LED between on and off. This simple yet foundational project introduces basic concepts of digital output control, timing, and visual feedback in electronic circuits. The project includes designing the circuit, writing code if applicable, and demonstrating the functionality through simulation or physical implementation.
+
+<a name="led-blinking-on-and-off"></a>
+
+---
+
+### POLICE LIGHTS PROJECT
+
+The POLICE LIGHTS PROJECT simulates the flashing lights used in police vehicles. This project explores creating a sequence of flashing LEDs or lights with varying patterns and timings to mimic police vehicle lights. It involves designing the circuit, programming microcontrollers if used, and potentially integrating sound effects or additional features to enhance realism.
+
+<a name="police-lights-project"></a>
+
+---
 
 Each project involved designing and simulating circuits using tools like Tinkercad and EasyEDA, reinforcing fundamental concepts in circuit design and implementation.
 
